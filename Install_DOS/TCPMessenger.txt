@@ -1,0 +1,7 @@
+[Service]
+LocalName = USUARIO
+ListenPort=15000
+ContactCount = 0
+
+[Contacts]
+
